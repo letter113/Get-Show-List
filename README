@@ -1,6 +1,16 @@
-Created by letter
+##############################
+
+Created by letter (sobranie.113@gmail.com)
 
 Stockholm
 Dec 13, 2011
 
 On a boring afternoon~~
+
+##############################
+
+This project is created to generate a TV list for better format.
+The orginal source of information is http://www.pogdesign.co.uk/ 
+
+Start this project by running script "get_show_list.py". Use "-h"
+to get help information. Enjoy~
