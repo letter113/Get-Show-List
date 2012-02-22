@@ -10,7 +10,7 @@ On a boring afternoon~~
 ##############################
 
 This project is created to generate a TV list for better format.
-The orginal source of information is http://www.pogdesign.co.uk/ 
+The orginal source of information is http://www.pogdesign.co.uk/cat
 
 Start this project by running script "get_show_list.py". Use "-h"
 to get help information. Enjoy~
